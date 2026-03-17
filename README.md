@@ -16,6 +16,7 @@ Focus: SQL • Python (pandas) • Tableau/Power BI • Analytics foundations
    - GitHub repo: https://github.com/sergey-kasatov/vehicle-silhouette-ml
 
 4. **TravelTide (Case Study) — Customer Segmentation & Retention Strategy (Python + SQL + Tableau)**
+   - Approach: rule-based + ML clustering segmentation
    - GitHub repo: https://github.com/sergey-kasatov/traveltide-segmentation-retention
 
 5. **Predictive Maintenance (Case Study) — Maintenance Required Prediction (Python / scikit-learn)**
