@@ -26,7 +26,7 @@ Focus: SQL • Python (pandas) • Tableau/Power BI • Analytics foundations
    - GitHub repo: https://github.com/sergey-kasatov/spreadsheet-sales-analysis
 
 7. **FIFA 23 — Tableau Dashboard (Case Study)**
-   - Tableau Public: https://public.tableau.com/views/FIFA23PlayerRatingsAnalysis/Mini-ProjectasStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+   - Tableau Public: [FIFA 23 Player Ratings Analysis](https://public.tableau.com/views/FIFA23PlayerRatingsAnalysis/Mini-ProjectasStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
    - GitHub repo: https://github.com/sergey-kasatov/fifa23-tableau-dashboard
 
 ## Links
