@@ -19,7 +19,7 @@ Focus: SQL • Python (pandas) • Tableau/Power BI • Analytics foundations
    - GitHub repo: https://github.com/sergey-kasatov/traveltide-segmentation-retention
 
 5. **Predictive Maintenance (Case Study) — Maintenance Required Prediction (Python / scikit-learn)**
-   - Dataset: Kaggle (CC0)
+   - Dataset (Kaggle, CC0): [Logistics Vehicle Maintenance History Dataset](https://www.kaggle.com/datasets/datasetengineer/logistics-vehicle-maintenance-history-dataset)
    - GitHub repo: https://github.com/sergey-kasatov/predictive-maintenance-ml
 
 6. **Spreadsheet Sales Analysis — Pivot Tables & KPI Summary (Google Sheets / Excel)**
