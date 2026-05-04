@@ -1,37 +1,57 @@
 # Portfolio — Sergey Kasatov
 
-Data Analyst based in Cologne, Germany
-Focus: SQL, Python (pandas), Tableau/Power BI, and business-oriented analytics projects
+Data Analyst based in Cologne, Germany. 
+Focus: SQL, Python, Tableau/Power BI, machine learning, forecasting, and business-oriented analytics projects.
 
-## Selected projects
-Most projects below are analytically complete and are currently being finalized for public portfolio publication.
+## Portfolio Projects
 
-1. **Phoenix Retail (Case Study) — KPI Dashboard (Sales, Profit & Discount)**
-   - Tableau: https://public.tableau.com/app/profile/sergey.kasatov/vizzes
-   - GitHub repo: https://github.com/sergey-kasatov/phoenix-retail-kpi-dashboard
+### End-to-End Data Science & Forecasting
 
-2. **Used Car Market Analysis — EDA & Data Cleaning (Python/pandas)**
-   - GitHub repo: https://github.com/sergey-kasatov/used-car-eda-pandas
+#### FreshMart Demand Planner — Time Series Forecasting App
+End-to-end sales forecasting project with EDA, feature engineering, statistical models, machine learning models, HyperOpt tuning, MLflow experiment tracking, and a deployed Streamlit planning app.
 
-3. **Vehicle Silhouette Classification (Case Study) — Supervised + Unsupervised ML (scikit-learn)**
-   - GitHub repo: https://github.com/sergey-kasatov/vehicle-silhouette-ml
+- Live app: https://freshmart-demand-planner.streamlit.app
+- GitHub repo: https://github.com/sergey-kasatov/time-series-forecasting-project
 
-4. **TravelTide (Case Study) — Customer Segmentation & Retention (Python + SQL + ML)**
-   - Built a customer retention targeting framework using rule-based perk assignment and ML benchmarking, then translated the results into business-ready recommendations.
-   - GitHub repo: https://github.com/sergey-kasatov/traveltide-segmentation-retention
+#### TravelTide — Customer Segmentation & Retention
+Customer segmentation and retention case study using SQL, Python, rule-based perk assignment, and ML benchmarking to translate customer behavior into business-ready targeting recommendations.
 
-5. **Predictive Maintenance (Case Study) — Maintenance Required Prediction (Python / scikit-learn)**
-   - Dataset (Kaggle, CC0): [Logistics Vehicle Maintenance History Dataset](https://www.kaggle.com/datasets/datasetengineer/logistics-vehicle-maintenance-history-dataset)
-   - GitHub repo: https://github.com/sergey-kasatov/predictive-maintenance-ml
+- GitHub repo: https://github.com/sergey-kasatov/traveltide-segmentation-retention
 
-6. **Spreadsheet Sales Analysis — Pivot Tables & KPI Summary (Google Sheets / Excel)**
-   - GitHub repo: https://github.com/sergey-kasatov/spreadsheet-sales-analysis
+### Business Intelligence & Dashboards
 
-7. **FIFA 23 — Tableau Dashboard (Case Study)**
-   - Tableau Public: [FIFA 23 Player Ratings Analysis](https://public.tableau.com/views/FIFA23PlayerRatingsAnalysis/Mini-ProjectasStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-   - GitHub repo: https://github.com/sergey-kasatov/fifa23-tableau-dashboard
+#### Phoenix Retail — KPI Dashboard
+Retail KPI dashboard focused on sales, profit, discount behavior, and business-oriented performance insights.
 
-## Links
-- LinkedIn: https://www.linkedin.com/in/sergey-kasatov/
-- Tableau Public: https://public.tableau.com/app/profile/sergey.kasatov/vizzes
-- GitHub: https://github.com/sergey-kasatov
+- Tableau: https://public.tableau.com/app/profile/sergey.kasatov/vizzes
+- GitHub repo: https://github.com/sergey-kasatov/phoenix-retail-kpi-dashboard
+
+#### FIFA 23 — Tableau Dashboard
+Tableau case study analyzing player ratings and performance attributes.
+
+- GitHub repo: https://github.com/sergey-kasatov/fifa23-tableau-dashboard
+
+### Machine Learning Case Studies
+
+#### Vehicle Silhouette — Supervised and Unsupervised ML
+Machine learning case study comparing classification, clustering, and PCA to understand patterns in vehicle silhouette data.
+
+- GitHub repo: https://github.com/sergey-kasatov/vehicle-silhouette-ml
+
+#### Predictive Maintenance — Maintenance Required Prediction
+Applied machine learning project for predicting maintenance need from vehicle usage and condition signals.
+
+- Dataset: https://www.kaggle.com/datasets/dataetengineer/logistics-vehicle-maintenance-history-dataset
+- GitHub repo: https://github.com/sergey-kasatov/predictive-maintenance-ml
+
+### Data Cleaning & Exploratory Analysis
+
+#### Used Car Market Analysis — EDA & Data Cleaning
+End-to-end exploratory analysis and repeatable cleaning workflow to prepare used car market data for modeling.
+
+- GitHub repo: https://github.com/sergey-kasatov/used-car-eda-pandas
+
+#### Spreadsheet Sales Analysis — Pivot Tables & KPI Summary
+Spreadsheet-based sales analysis using pivot tables and KPI summaries.
+
+- GitHub repo: https://github.com/sergey-kasatov/spreadsheet-sales-analysis
