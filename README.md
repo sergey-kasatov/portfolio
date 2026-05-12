@@ -44,6 +44,12 @@ Applied machine learning project for predicting maintenance need from vehicle us
 - Dataset: https://www.kaggle.com/datasets/dataetengineer/logistics-vehicle-maintenance-history-dataset
 - GitHub repo: https://github.com/sergey-kasatov/predictive-maintenance-ml
 
+#### **Loan Approval Prediction — Binary Classification + Regression**
+
+Bank loan approval prediction using Random Forest, Gradient Boosting, Logistic Regression with GridSearchCV tuning, class imbalance handling, feature engineering, and a bonus regression task to predict loan amount.
+
+- GitHub repo: https://github.com/sergey-kasatov/loan-approval-prediction
+
 ### Data Cleaning & Exploratory Analysis
 
 #### **Used Car Market Analysis — EDA & Data Cleaning**
