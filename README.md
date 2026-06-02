@@ -28,9 +28,11 @@ Tableau case study analyzing player ratings and performance attributes.
 
 ### Machine Learning Case Studies
 
-#### **CIFAR-10 Image Classification - Transfer Learning with ResNet50**
-Computer vision project using ResNet50 pretrained on ImageNet to classify 32x32 images into 10 categories. Two-phase training: frozen base (head only) followed by full fine-tuning. Test accuracy 69.8% on 10,000 unseen images.
-- GitHub repo: https://github.com/sergey-kasatov/computer-vision-cifar10-classification
+#### **CIFAR-10 ResNet50 Transfer Learning Experiments**
+Transfer learning project using ResNet50 pretrained on ImageNet to classify CIFAR-10 images. 
+Systematic experiments on dataset size (10K vs 50K), data augmentation, LR scheduling, and 
+partial unfreezing. Best result: 82.7% test accuracy. Includes Grad-CAM visualization.
+- GitHub repo: https://github.com/sergey-kasatov/cifar10-resnet50-transfer-learning-experiments
 
 #### **Vehicle Silhouette - Supervised and Unsupervised ML**
 Machine learning case study comparing classification, clustering, and PCA to understand patterns in vehicle silhouette data.
