@@ -28,6 +28,10 @@ Tableau case study analyzing player ratings and performance attributes.
 
 ### Machine Learning Case Studies
 
+#### **Disaster Tweets - Real vs Figurative NLP Classification**
+Binary NLP classifier that flags real-disaster tweets versus figurative use of disaster words. Shipped an interpretable TF-IDF + tuned Logistic Regression baseline, benchmarked against a from-scratch CNN and a fine-tuned DistilBERT, with results confirmed on the Kaggle public leaderboard.
+- GitHub repo: https://github.com/sergey-kasatov/nlp-disaster-tweets-classification
+
 #### **CIFAR-10 ResNet50 Transfer Learning Experiments**
 Transfer learning project using ResNet50 pretrained on ImageNet to classify CIFAR-10 images. 
 Systematic experiments on dataset size (10K vs 50K), data augmentation, LR scheduling, and 
